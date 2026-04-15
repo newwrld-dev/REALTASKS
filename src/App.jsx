@@ -13,7 +13,7 @@ const COLORS = {
   navBg: "#0d1424",
 };
 
-const ACTIVATION_FEE = 500;
+const ACTIVATION_FEE = 1;
 const REFERRAL_BONUS = 20;
 const PAYMENT_LINK = "https://lipwa.link/7762";
 
